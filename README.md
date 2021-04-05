@@ -2,6 +2,10 @@
 
 ## Documentação API
 
+ Este projeto é uma API referente a um pomar que precisa catalogar suas platas, espécies, mantendo o histórico da colheita.
+
+
+
 {
     "openapi": "3.0.1",
     "info": {
